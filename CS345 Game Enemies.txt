@@ -1,0 +1,28 @@
+Concepts of enemies we plan to add to the game:
+Bugs! (Different kinds of bugs)
+Errors
+Exceptions
+
+Name: Bug- Ranged
+Enemy that shoots single bullets
+
+Name: Error- Ranged
+Enemy that shoots a spread of bullets
+
+Name: 
+Enemy that shoots rapid fire
+
+Name: ???
+Enemy that predicts where the player will go with it's shots
+
+Name: Bug- Melee
+Enemy that splits when killed
+
+Name: ???
+Enemy that shoots a ring of bullets
+
+Name: Exception- Melee
+Enemy that explodes
+
+Name: ???
+Enemy that teleports
